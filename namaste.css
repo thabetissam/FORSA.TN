@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.filterbtn {
+  border: 1px solid grey;
+  padding: 5px 20px;
+  border-radius: 40px;
+  box-shadow: 3px 3px rgb(216, 215, 215);
+}
+
+.active {
+  background-color: #3e4152;
+  color: white;
+  
+  border: 1px solid;
+}
+.active i {
+  display: block;
+}
+.hover-navbar {
+  @apply px-3 py-3  hover:text-orange-500 ;
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+
+/* Loader/spinner */
+.loader {
+  width: 85px;
+  height: 85px;
+  border: 5px solid #fff;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+  opacity: 70%;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+
+/* loader property for lazy loading shimmer */
+.loader_lazy_shimmer {
+  position: relative;
+  width: 54px;
+  height: 54px;
+  border-radius: 10px;
+}
+
+.loader_lazy_shimmer div {
+  width: 8%;
+  height: 24%;
+  background: rgb(128, 128, 128);
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  opacity: 0;
+  border-radius: 50px;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+  animation: fade458 1s linear infinite;
+}
+
+@keyframes fade458 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.25;
+  }
+}
+
+.loader_lazy_shimmer div {
+  transform: rotate(calc(30deg * var(--i))) translate(0, -130%);
+}
+
+.bar1 { --i: 0; }
+.bar2 { --i: 1; }
+.bar3 { --i: 2; }
+.bar4 { --i: 3; }
+.bar5 { --i: 4; }
+.bar6 { --i: 5; }
+.bar7 { --i: 6; }
+.bar8 { --i: 7; }
+.bar9 { --i: 8; }
+.bar10 { --i: 9; }
+.bar11 { --i: 10; }
+.bar12 { --i: 11; }
+
+
+
+/* chatbotStyles.css */
+.custom-messenger {
+  --df-messenger-button-titlebar-color: #878FAC;
+  --df-messenger-send-icon: #b73a4c;
+}
+
+
+/* Logo Container */
+.logo-container {
+  width: 150px; /* Fixed width to match logo size */
+  height: 150px; /* Fixed height to match logo */
+  flex: 0 0 auto; /* No grow, no shrink */
+  display: flex;
+  align-items: center; /* Center logo vertically */
+  justify-content: flex-start; /* Align logo left */
+}
+
+/* Logo Image (from Title component) */
+.logo-img {
+  height: 150px; /* Custom size, between 128px and 160px */
+  width: auto;
+  object-fit: contain;
+  border-radius: 9999px; /* Circular */
+}
+
+/* Desktop Navbar */
+.desktop-nav {
+  flex-grow: 1; /* Take available space */
+  min-width: 300px; /* Prevent compression */
+  display: flex;
+  justify-content: flex-end; /* Align items right */
+  align-items: center;
+  gap: 20px; /* Consistent spacing */
+}
+
+/* Mobile Navbar */
+.mobile-nav {
+  flex-grow: 1; /* Take available space */
+  min-width: 200px; /* Prevent compression */
+  display: flex;
+  justify-content: flex-end; /* Align icons right */
+  align-items: center;
+  gap: 24px; /* Consistent spacing, matches gap-6 */
+}
+
+/* Header Container */
+.header-container {
+  width: 90%; /* Match w-[90%] */
+  max-width: 1280px; /* Match max-w-screen-xl */
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 640px) {
+  .logo-img {
+    height: 120px; /* Smaller logo for mobile */
+  }
+  .logo-container {
+    width: 120px; /* Match logo size */
+    height: 120px;
+  }
+    .mobile-nav {
+      min-width: 180px;
+    }
+  
+}
