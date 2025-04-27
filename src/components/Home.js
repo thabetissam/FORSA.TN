@@ -7,7 +7,6 @@ import UserOffline from "./UserOffline";
 import LandingPage from "./LandingPage";
 import FilterBar from "./FilterBar";
 import { useSelector } from "react-redux";
-import OnYourMind from "./OnYourMind";
 import { Coordinates } from "../utils/userContext";
 import { RestaurantData } from "./RestaurantData";
 import Availability from "./Availability";
@@ -132,7 +131,6 @@ export const Home = () => {
         <div className="w-full  mx-auto mt-3 overflow-hidden">
           {/* Show landing page and other components when data is available */}
           <LandingPage />
-          <OnYourMind catagoryList={catagory} />
           <FilterBar />
 
           {/* Search input and button */}

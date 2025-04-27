@@ -105,11 +105,10 @@ const LandingPage = () => {
                 Hungry?
               </h2>
               <h1 className="font-bold text-5xl mb-3">
-                Wait a minute for <span className="block">delicious.</span>
+              Eat Smart, Waste Less! <span className="block"></span>
               </h1>
               <p className="text-gray-600 mb-6">
-                Why Wait? Hot, Tasty Food Delivered in 20 Minutes!
-              </p>
+              Enjoy delicious food while fighting food waste and saving money.              </p>
             </div>
 
             <div ref={formRef}>

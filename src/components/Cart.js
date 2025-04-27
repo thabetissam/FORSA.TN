@@ -207,7 +207,7 @@ const Cart = () => {
                   </div>
                 </div>
                 <p className="font-bold mt-[9px]">
-                  ₹{(price || defaultPrice) / 100}
+                  TN{(price || defaultPrice) / 100}
                 </p>
               </div>
             )
@@ -242,23 +242,23 @@ const Cart = () => {
             <h4 className="font-bold text-lg mb-2">Bill Details</h4>
             <div className="flex justify-between text-sm text-gray-700">
               <p>Item Total</p>
-              <p>₹{calculateItemTotal()}</p>
+              <p>TN{calculateItemTotal()}</p>
             </div>
             <div className="flex justify-between text-sm text-gray-700">
               <p>Delivery Fee | {cartData?.feeDetails?.restaurantFeeMessage}</p>
-              <p>₹{calculateDeliveryFee()}</p>
+              <p>TN{calculateDeliveryFee()}</p>
             </div>
             <div className="flex justify-between text-sm text-gray-700">
               <p>Platform Fee</p>
-              <p>₹{platformFee.toFixed(2)}</p>
+              <p>TN{platformFee.toFixed(2)}</p>
             </div>
             <div className="flex justify-between text-sm text-gray-700">
               <p>GST and Restaurant Charges</p>
-              <p>₹{gstAndCharges.toFixed(2)}</p>
+              <p>TN{gstAndCharges.toFixed(2)}</p>
             </div>
             <div className="flex justify-between font-bold text-lg text-gray-800 mt-2">
               <p>Total Amount</p>
-              <p>₹{calculateTotalAmount()}</p>
+              <p>TN{calculateTotalAmount()}</p>
             </div>
           </div>
 

@@ -12,8 +12,7 @@ export const RestaurantData = ({ restaurants, TopResTitle }) => {
       ) : (
         <div>
           <h1 className="text-2xl font-semibold mb-4 ml-4 text-center">
-            {TopResTitle}
-          </h1>
+Top restaurant chains          </h1>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4  sm:gap-1 md:gap-2 lg:gap-3">
             {restaurants?.map((restaurant) => (
               <Link

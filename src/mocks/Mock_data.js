@@ -129,25 +129,25 @@ export const RESTAURANT_DATA =
                 },
                 {
                   "id": "750581",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North tunisian.png",
                   "action": {
-                    "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
-                    "text": "North Indian",
+                    "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northtunisian&tags=layout_CCS_Northtunisian&type=rcv2",
+                    "text": "North tunisian",
                     "type": "WEBLINK"
                   },
                   "entityType": "BANNER",
                   "accessibility": {
-                    "altText": "restaurants curated for north indian",
+                    "altText": "restaurants curated for north tunisian",
                     "altTextCta": "open"
                   },
-                  "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
+                  "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_Northtunisian&search_context=northtunisian",
                   "frequencyCapping": {
                     
                   },
                   "externalMarketing": {
                     
                   },
-                  "description": "North Indian"
+                  "description": "North tunisian"
                 },
                 {
                   "id": "750589",
@@ -197,23 +197,23 @@ export const RESTAURANT_DATA =
                   "id": "750585",
                   "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
                   "action": {
-                    "link": "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southindian&tags=layout_CCS_SouthIndian&type=rcv2",
-                    "text": "South Indian",
+                    "link": "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southtunisian&tags=layout_CCS_Southtunisian&type=rcv2",
+                    "text": "South tunisian",
                     "type": "WEBLINK"
                   },
                   "entityType": "BANNER",
                   "accessibility": {
-                    "altText": "restaurants curated for south indian",
+                    "altText": "restaurants curated for south tunisian",
                     "altTextCta": "open"
                   },
-                  "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
+                  "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_Southtunisian&search_context=southtunisian",
                   "frequencyCapping": {
                     
                   },
                   "externalMarketing": {
                     
                   },
-                  "description": "South Indian"
+                  "description": "South tunisian"
                 },
                 {
                   "id": "749868",
@@ -588,25 +588,25 @@ export const RESTAURANT_DATA =
                   },
                   {
                     "id": "750581",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North tunisian.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
-                      "text": "North Indian",
+                      "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northtunisian&tags=layout_CCS_Northtunisian&type=rcv2",
+                      "text": "North tunisian",
                       "type": "WEBLINK"
                     },
                     "entityType": "BANNER",
                     "accessibility": {
-                      "altText": "restaurants curated for north indian",
+                      "altText": "restaurants curated for north tunisian",
                       "altTextCta": "open"
                     },
-                    "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
+                    "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_Northtunisian&search_context=northtunisian",
                     "frequencyCapping": {
                       
                     },
                     "externalMarketing": {
                       
                     },
-                    "description": "North Indian"
+                    "description": "North tunisian"
                   },
                   {
                     "id": "750589",
@@ -656,23 +656,23 @@ export const RESTAURANT_DATA =
                     "id": "750585",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southindian&tags=layout_CCS_SouthIndian&type=rcv2",
-                      "text": "South Indian",
+                      "link": "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southtunisian&tags=layout_CCS_Southtunisian&type=rcv2",
+                      "text": "South tunisian",
                       "type": "WEBLINK"
                     },
                     "entityType": "BANNER",
                     "accessibility": {
-                      "altText": "restaurants curated for south indian",
+                      "altText": "restaurants curated for south tunisian",
                       "altTextCta": "open"
                     },
-                    "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
+                    "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_Southtunisian&search_context=southtunisian",
                     "frequencyCapping": {
                       
                     },
                     "externalMarketing": {
                       
                     },
-                    "description": "South Indian"
+                    "description": "South tunisian"
                   },
                   {
                     "id": "749868",
@@ -983,7 +983,7 @@ export const RESTAURANT_DATA =
           "card": {
             "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
             "header": {
-              "title": "Top restaurant chains in Bangalore",
+              "title": "Top restaurant chains in Tunisia ",
               "action": {
                 
               },
@@ -1045,7 +1045,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "lrstc491jly6qaam4qog",
                       "locality": "Prasanth Pai Layout",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹120 for two",
+                      "": "TN120 for two",
                       "cuisines": [
                         "Ice Cream",
                         "Desserts"
@@ -1098,8 +1098,8 @@ export const RESTAURANT_DATA =
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹249",
+                        "header": "TN125 OFF",
+                        "subHeader": "ABOVE TN249",
                         "discountTag": "FLAT DEAL"
                       },
                       "differentiatedUi": {
@@ -1132,7 +1132,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/grameen-kulfi-prasanth-pai-layout-whitefield-bangalore-393934",
+                      "link": "https://www.swiggy.com/restaurants/grameen-kulfi-prasanth-pai-layout-whitefield-Tunisia -393934",
                       "type": "WEBLINK"
                     }
                   },
@@ -1143,7 +1143,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/39cb95eb-d5ec-43d5-bd0b-e3f7b65a7d94_622029.JPG",
                       "locality": "Kadugodi",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹250 for two",
+                      "": "TN250 for two",
                       "cuisines": [
                         "Pizzas",
                         "Italian",
@@ -1200,8 +1200,8 @@ export const RESTAURANT_DATA =
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹100 OFF",
-                        "subHeader": "ABOVE ₹299",
+                        "header": "TN100 OFF",
+                        "subHeader": "ABOVE TN299",
                         "discountTag": "FLAT DEAL"
                       },
                       "differentiatedUi": {
@@ -1234,7 +1234,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/mojo-pizza-2x-toppings-kadugodi-whitefield-bangalore-622029",
+                      "link": "https://www.swiggy.com/restaurants/mojo-pizza-2x-toppings-kadugodi-whitefield-Tunisia -622029",
                       "type": "WEBLINK"
                     }
                   },
@@ -1245,11 +1245,11 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/19/4ec6a5b6-7c8d-4e10-b8a3-317922e419da_750224.JPG",
                       "locality": "Opp.Post Office",
                       "areaName": "Kadugodi",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
                         "Home Food",
-                        "Indian",
-                        "North Indian",
+                        "tunisian",
+                        "North tunisian",
                         "Thalis"
                       ],
                       "avgRating": 4.3,
@@ -1303,7 +1303,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹99"
+                        "subHeader": "AT TN99"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1335,7 +1335,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/daily-kitchen-homely-meals-opp-post-office-kadugodi-bangalore-750224",
+                      "link": "https://www.swiggy.com/restaurants/daily-kitchen-homely-meals-opp-post-office-kadugodi-Tunisia -750224",
                       "type": "WEBLINK"
                     }
                   },
@@ -1346,7 +1346,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "rcx9e6cavubzanxczxsh",
                       "locality": "Varthur Main Road",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹300 for two",
+                      "": "TN300 for two",
                       "cuisines": [
                         "Pizzas",
                         "Italian"
@@ -1414,8 +1414,8 @@ export const RESTAURANT_DATA =
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹249",
+                        "header": "TN125 OFF",
+                        "subHeader": "ABOVE TN249",
                         "discountTag": "FLAT DEAL"
                       },
                       "differentiatedUi": {
@@ -1448,7 +1448,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/olio-the-wood-fired-pizzeria-varthur-main-road-whitefield-bangalore-573190",
+                      "link": "https://www.swiggy.com/restaurants/olio-the-wood-fired-pizzeria-varthur-main-road-whitefield-Tunisia -573190",
                       "type": "WEBLINK"
                     }
                   },
@@ -1459,7 +1459,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/8ba01310-e5b7-4a90-bef3-98a10bc91238_707063.JPG",
                       "locality": "Ramagondanahalli",
                       "areaName": "Varthur",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
                         "Burgers",
                         "Fast Food",
@@ -1501,7 +1501,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "20% OFF",
-                        "subHeader": "UPTO ₹50"
+                        "subHeader": "UPTO TN50"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1533,7 +1533,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/kfc-ramagondanahalli-varthur-bangalore-707063",
+                      "link": "https://www.swiggy.com/restaurants/kfc-ramagondanahalli-varthur-Tunisia -707063",
                       "type": "WEBLINK"
                     }
                   },
@@ -1544,7 +1544,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/43d3693b-904d-441a-8f0a-81dc5f88f0b6_372897.jpg",
                       "locality": "Ramangondanhalli",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹300 for two",
+                      "": "TN300 for two",
                       "cuisines": [
                         "Pizzas"
                       ],
@@ -1584,7 +1584,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹189"
+                        "subHeader": "AT TN189"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1619,7 +1619,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/pizza-hut-ramangondanhalli-whitefield-bangalore-372897",
+                      "link": "https://www.swiggy.com/restaurants/pizza-hut-ramangondanhalli-whitefield-Tunisia -372897",
                       "type": "WEBLINK"
                     }
                   },
@@ -1630,7 +1630,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/e63175f3-fc3d-407a-8f5d-caabad53c3e9_23686.jpg",
                       "locality": "Forum Neighbourhood Mall",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
                         "Burgers",
                         "Beverages",
@@ -1685,7 +1685,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "30% OFF",
-                        "subHeader": "UPTO ₹70"
+                        "subHeader": "UPTO TN70"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1717,7 +1717,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/mcdonalds-forum-neighbourhood-mall-whitefield-bangalore-23686",
+                      "link": "https://www.swiggy.com/restaurants/mcdonalds-forum-neighbourhood-mall-whitefield-Tunisia -23686",
                       "type": "WEBLINK"
                     }
                   },
@@ -1728,7 +1728,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
                       "locality": "Varthur Main Road",
                       "areaName": "Hope Farm, Varthur Main Road",
-                      "costForTwo": "₹250 for two",
+                      "": "TN250 for two",
                       "cuisines": [
                         "Desserts",
                         "Ice Cream"
@@ -1785,7 +1785,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "50% OFF",
-                        "subHeader": "UPTO ₹100"
+                        "subHeader": "UPTO TN100"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1817,7 +1817,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-varthur-main-road-hope-farm-varthur-main-road-bangalore-1327",
+                      "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-varthur-main-road-hope-farm-varthur-main-road-Tunisia -1327",
                       "type": "WEBLINK"
                     }
                   },
@@ -1828,7 +1828,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "d0450ce1a6ba19ea60cd724471ed54a8",
                       "locality": "Katha",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
                         "Pizzas",
                         "Italian",
@@ -1882,8 +1882,8 @@ export const RESTAURANT_DATA =
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹150 OFF",
-                        "subHeader": "ABOVE ₹299",
+                        "header": "TN150 OFF",
+                        "subHeader": "ABOVE TN299",
                         "discountTag": "FLAT DEAL"
                       },
                       "differentiatedUi": {
@@ -1916,7 +1916,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/dominos-pizza-katha-whitefield-bangalore-79466",
+                      "link": "https://www.swiggy.com/restaurants/dominos-pizza-katha-whitefield-Tunisia -79466",
                       "type": "WEBLINK"
                     }
                   },
@@ -1927,12 +1927,12 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "zs7yhthejajvuqflxexd",
                       "locality": "Ramagondanahalli",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹200 for two",
+                      "": "TN200 for two",
                       "cuisines": [
                         "Snacks",
                         "Chaat",
                         "Street Food",
-                        "North Indian",
+                        "North tunisian",
                         "Fast Food"
                       ],
                       "avgRating": 4.2,
@@ -1984,7 +1984,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹79"
+                        "subHeader": "AT TN79"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2016,7 +2016,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/chaat-street-express-ramagondanahalli-whitefield-bangalore-246979",
+                      "link": "https://www.swiggy.com/restaurants/chaat-street-express-ramagondanahalli-whitefield-Tunisia -246979",
                       "type": "WEBLINK"
                     }
                   },
@@ -2027,7 +2027,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "cfa1123ebf17413dc7d0a80c7361fab3",
                       "locality": "Arya Hub Mall",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹500 for two",
+                      "": "TN500 for two",
                       "cuisines": [
                         "Salads"
                       ],
@@ -2095,7 +2095,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "40% OFF",
-                        "subHeader": "UPTO ₹80"
+                        "subHeader": "UPTO TN80"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2127,7 +2127,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/salad-days-arya-hub-mall-whitefield-bangalore-739398",
+                      "link": "https://www.swiggy.com/restaurants/salad-days-arya-hub-mall-whitefield-Tunisia -739398",
                       "type": "WEBLINK"
                     }
                   },
@@ -2138,9 +2138,9 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/c0db57b4-bada-434b-a0d7-4d6031b657fd_390056.JPG",
                       "locality": "Opp.Post Office",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹250 for two",
+                      "": "TN250 for two",
                       "cuisines": [
-                        "North Indian",
+                        "North tunisian",
                         "Punjabi",
                         "Home Food"
                       ],
@@ -2195,7 +2195,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹149"
+                        "subHeader": "AT TN149"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2227,7 +2227,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/nh1-bowls-highway-to-north-opp-post-office-whitefield-bangalore-390056",
+                      "link": "https://www.swiggy.com/restaurants/nh1-bowls-highway-to-north-opp-post-office-whitefield-Tunisia -390056",
                       "type": "WEBLINK"
                     }
                   },
@@ -2238,7 +2238,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/2fe1a7bd-3a1b-4ad0-939d-2a78d5c6b110_681438.JPG",
                       "locality": "Opp.Post Office",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹300 for two",
+                      "": "TN300 for two",
                       "cuisines": [
                         "Pizzas",
                         "Italian",
@@ -2295,7 +2295,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹169"
+                        "subHeader": "AT TN169"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2327,7 +2327,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/leancrust-pizza-thincrust-experts-opp-post-office-whitefield-bangalore-681438",
+                      "link": "https://www.swiggy.com/restaurants/leancrust-pizza-thincrust-experts-opp-post-office-whitefield-Tunisia -681438",
                       "type": "WEBLINK"
                     }
                   },
@@ -2338,7 +2338,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/23/8162aab2-4ccd-431e-8163-ad18749b95f5_643664.JPG",
                       "locality": "Whitefield Main Road",
                       "areaName": "Sathya Sai Layout",
-                      "costForTwo": "₹250 for two",
+                      "": "TN250 for two",
                       "cuisines": [
                         "Healthy Food",
                         "Salads",
@@ -2396,7 +2396,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹159"
+                        "subHeader": "AT TN159"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2428,27 +2428,27 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/wefit-protein-bowls-salads-and-sandwiches-whitefield-main-road-sathya-sai-layout-bangalore-643664",
+                      "link": "https://www.swiggy.com/restaurants/wefit-protein-bowls-salads-and-sandwiches-whitefield-main-road-sathya-sai-layout-Tunisia -643664",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
                       "id": "255822",
-                      "name": "Great Indian Khichdi by EatFit",
+                      "name": "Great tunisian Khichdi by EatFit",
                       "cloudinaryImageId": "6e44fd7f1e5cd9967edfe47c10247671",
                       "locality": "Ramagondanahalli",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹200 for two",
+                      "": "TN200 for two",
                       "cuisines": [
                         "Home Food",
-                        "Indian",
-                        "North Indian",
+                        "tunisian",
+                        "North tunisian",
                         "Healthy Food",
                         "Snacks",
                         "Desserts",
                         "Rajasthani",
-                        "South Indian",
+                        "South tunisian",
                         "Maharashtrian",
                         "Sweets"
                       ],
@@ -2517,7 +2517,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹89"
+                        "subHeader": "AT TN89"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2549,7 +2549,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/great-indian-khichdi-by-eatfit-ramagondanahalli-whitefield-bangalore-255822",
+                      "link": "https://www.swiggy.com/restaurants/great-tunisian-khichdi-by-eatfit-ramagondanahalli-whitefield-Tunisia -255822",
                       "type": "WEBLINK"
                     }
                   },
@@ -2560,11 +2560,11 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "y4lnpb4qysq3yqm4s1q4",
                       "locality": "Marathahalli",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹600 for two",
+                      "": "TN600 for two",
                       "cuisines": [
                         "Biryani",
                         "Andhra",
-                        "South Indian",
+                        "South tunisian",
                         "Tandoor"
                       ],
                       "avgRating": 4.2,
@@ -2603,7 +2603,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "20% OFF",
-                        "subHeader": "UPTO ₹50"
+                        "subHeader": "UPTO TN50"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2638,7 +2638,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/biriyani-zone-marathahalli-whitefield-bangalore-27767",
+                      "link": "https://www.swiggy.com/restaurants/biriyani-zone-marathahalli-whitefield-Tunisia -27767",
                       "type": "WEBLINK"
                     }
                   },
@@ -2649,12 +2649,12 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "o11yrq1ftikvipvnwwsa",
                       "locality": "1st Phase",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
-                        "Indian",
+                        "tunisian",
                         "Healthy Food",
                         "Home Food",
-                        "South Indian"
+                        "South tunisian"
                       ],
                       "avgRating": 4.4,
                       "parentId": "239281",
@@ -2720,7 +2720,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "60% OFF",
-                        "subHeader": "UPTO ₹110"
+                        "subHeader": "UPTO TN110"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2752,7 +2752,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/soul-rasa-1st-phase-whitefield-bangalore-437310",
+                      "link": "https://www.swiggy.com/restaurants/soul-rasa-1st-phase-whitefield-Tunisia -437310",
                       "type": "WEBLINK"
                     }
                   },
@@ -2763,7 +2763,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "c6qq2z231kv64qacyg5y",
                       "locality": "Hagdur Road",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹150 for two",
+                      "": "TN150 for two",
                       "cuisines": [
                         "Ice Cream",
                         "Desserts"
@@ -2827,7 +2827,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "10% OFF",
-                        "subHeader": "UPTO ₹40"
+                        "subHeader": "UPTO TN40"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2859,7 +2859,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/natural-ice-cream-hagdur-road-whitefield-bangalore-314429",
+                      "link": "https://www.swiggy.com/restaurants/natural-ice-cream-hagdur-road-whitefield-Tunisia -314429",
                       "type": "WEBLINK"
                     }
                   },
@@ -2870,7 +2870,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "57262fe3839f0bff174f3d7e7cc8a2b4",
                       "locality": "Brooke Bond First Cross",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
                         "Ice Cream",
                         "Desserts"
@@ -2955,7 +2955,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/polar-bear-brooke-bond-first-cross-whitefield-bangalore-214654",
+                      "link": "https://www.swiggy.com/restaurants/polar-bear-brooke-bond-first-cross-whitefield-Tunisia -214654",
                       "type": "WEBLINK"
                     }
                   },
@@ -2966,7 +2966,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "6e04be27387483a7c00444f8e8241108",
                       "locality": "SJR I Park KIADB Export Promotion Industrial Area",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
                         "Biryani",
                         "Pastas",
@@ -3025,7 +3025,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "50% OFF",
-                        "subHeader": "UPTO ₹100"
+                        "subHeader": "UPTO TN100"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -3057,7 +3057,7 @@ export const RESTAURANT_DATA =
                       
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/the-good-bowl-sjr-i-park-kiadb-export-promotion-industrial-area-whitefield-bangalore-156438",
+                      "link": "https://www.swiggy.com/restaurants/the-good-bowl-sjr-i-park-kiadb-export-promotion-industrial-area-whitefield-Tunisia -156438",
                       "type": "WEBLINK"
                     }
                   }
@@ -3087,7 +3087,7 @@ export const RESTAURANT_DATA =
         "card": {
           "card": {
             "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BasicContent",
-            "title": "Restaurants with online food delivery in Bangalore",
+            "title": "Restaurants with online food delivery in Tunisia ",
             "id": "popular_restaurants_title"
           }
         }
@@ -3112,11 +3112,11 @@ export const RESTAURANT_DATA =
                 "title": "Rating"
               },
               {
-                "key": "costForTwoAsc",
+                "key": "Asc",
                 "title": "Cost:LowtoHigh"
               },
               {
-                "key": "costForTwoDesc",
+                "key": "Desc",
                 "title": "Cost:HightoLow"
               }
             ],
@@ -3481,8 +3481,8 @@ export const RESTAURANT_DATA =
                     "openFilter": true
                   },
                   {
-                    "label": "Indian",
-                    "id": "query_indian",
+                    "label": "tunisian",
+                    "id": "query_tunisian",
                     "analytics": {
                       
                     },
@@ -3681,16 +3681,16 @@ export const RESTAURANT_DATA =
                     "openFilter": true
                   },
                   {
-                    "label": "North Indian",
-                    "id": "query_north_indian",
+                    "label": "North tunisian",
+                    "id": "query_north_tunisian",
                     "analytics": {
                       
                     },
                     "openFilter": true
                   },
                   {
-                    "label": "North indian",
-                    "id": "query_north_indian",
+                    "label": "North tunisian",
+                    "id": "query_north_tunisian",
                     "analytics": {
                       
                     },
@@ -3857,16 +3857,16 @@ export const RESTAURANT_DATA =
                     "openFilter": true
                   },
                   {
-                    "label": "South Indian",
-                    "id": "query_south_indian",
+                    "label": "South tunisian",
+                    "id": "query_south_tunisian",
                     "analytics": {
                       
                     },
                     "openFilter": true
                   },
                   {
-                    "label": "South indian",
-                    "id": "query_south_indian",
+                    "label": "South tunisian",
+                    "id": "query_south_tunisian",
                     "analytics": {
                       
                     },
@@ -4152,12 +4152,12 @@ export const RESTAURANT_DATA =
               },
               {
                 "label": "Cost for two",
-                "id": "costForTwo",
+                "id": "",
                 "selection": "SELECT_TYPE_MULTISELECT",
                 "facetInfo": [
                   {
                     "label": "Rs. 300-Rs. 600",
-                    "id": "costForTwofacetquery3",
+                    "id": "facetquery3",
                     "analytics": {
                       
                     },
@@ -4165,14 +4165,14 @@ export const RESTAURANT_DATA =
                   },
                   {
                     "label": "Greater than Rs. 600",
-                    "id": "costForTwofacetquery4",
+                    "id": "facetquery4",
                     "analytics": {
                       
                     }
                   },
                   {
                     "label": "Less than Rs. 300",
-                    "id": "costForTwofacetquery5",
+                    "id": "facetquery5",
                     "analytics": {
                       
                     },
@@ -4205,7 +4205,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
                       "locality": "Varthur Main Road",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹250 for two",
+                      "": "TN250 for two",
                       "cuisines": [
                         "Chinese",
                         "Asian",
@@ -4248,7 +4248,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹199"
+                        "subHeader": "AT TN199"
                       },
                       "orderabilityCommunication": {
                         "title": {
@@ -4294,7 +4294,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/chinese-wok-varthur-main-road-whitefield-bangalore-377396",
+                      "link": "https://www.swiggy.com/restaurants/chinese-wok-varthur-main-road-whitefield-Tunisia -377396",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4307,9 +4307,9 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/3/5ea744d4-c072-4c03-ab21-4917dabde5ba_853143.JPG",
                       "locality": "Whitefield Main Road",
                       "areaName": "Pattandur, Agrahara",
-                      "costForTwo": "₹500 for two",
+                      "": "TN500 for two",
                       "cuisines": [
-                        "Indian",
+                        "tunisian",
                         "Home Food",
                         "Healthy Food"
                       ],
@@ -4362,7 +4362,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "50% OFF",
-                        "subHeader": "UPTO ₹100"
+                        "subHeader": "UPTO TN100"
                       },
                       "orderabilityCommunication": {
                         "title": {
@@ -4409,7 +4409,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/itc-aashirvaad-soul-creations-whitefield-main-road-pattandur-agrahara-bangalore-853143",
+                      "link": "https://www.swiggy.com/restaurants/itc-aashirvaad-soul-creations-whitefield-main-road-pattandur-agrahara-Tunisia -853143",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4422,10 +4422,10 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "hqbevohask9tsdhsqnjl",
                       "locality": "Kadugodi",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹100 for two",
+                      "": "TN100 for two",
                       "cuisines": [
                         "Snacks",
-                        "Indian"
+                        "tunisian"
                       ],
                       "avgRating": 4,
                       "parentId": "376",
@@ -4508,7 +4508,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/five-star-chicken-kadugodi-whitefield-bangalore-355457",
+                      "link": "https://www.swiggy.com/restaurants/five-star-chicken-kadugodi-whitefield-Tunisia -355457",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4521,7 +4521,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "lrstc491jly6qaam4qog",
                       "locality": "Prasanth Pai Layout",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹120 for two",
+                      "": "TN120 for two",
                       "cuisines": [
                         "Ice Cream",
                         "Desserts"
@@ -4574,8 +4574,8 @@ export const RESTAURANT_DATA =
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹249",
+                        "header": "TN125 OFF",
+                        "subHeader": "ABOVE TN249",
                         "discountTag": "FLAT DEAL"
                       },
                       "orderabilityCommunication": {
@@ -4622,7 +4622,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/grameen-kulfi-prasanth-pai-layout-whitefield-bangalore-393934",
+                      "link": "https://www.swiggy.com/restaurants/grameen-kulfi-prasanth-pai-layout-whitefield-Tunisia -393934",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4631,11 +4631,11 @@ export const RESTAURANT_DATA =
                   {
                     "info": {
                       "id": "214140",
-                      "name": "Bangalore Mandarin",
+                      "name": "Tunisia  Mandarin",
                       "cloudinaryImageId": "kucvrczo9hqsisqnlval",
                       "locality": "Whitefield",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹800 for two",
+                      "": "TN800 for two",
                       "cuisines": [
                         "Chinese"
                       ],
@@ -4721,7 +4721,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/bangalore-mandarin-whitefield-bangalore-214140",
+                      "link": "https://www.swiggy.com/restaurants/Tunisia -mandarin-whitefield-Tunisia -214140",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4734,13 +4734,13 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "ew1qjainpgvq72n0692h",
                       "locality": "Vinayaka Layout",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹100 for two",
+                      "": "TN100 for two",
                       "cuisines": [
                         "Chinese",
                         "Desserts",
                         "Jain",
-                        "North Indian",
-                        "South Indian",
+                        "North tunisian",
+                        "South tunisian",
                         "Sweets"
                       ],
                       "avgRating": 4.4,
@@ -4836,7 +4836,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/sri-laksmi-vaibhava-vinayaka-layout-whitefield-bangalore-50155",
+                      "link": "https://www.swiggy.com/restaurants/sri-laksmi-vaibhava-vinayaka-layout-whitefield-Tunisia -50155",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4849,7 +4849,7 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/39cb95eb-d5ec-43d5-bd0b-e3f7b65a7d94_622029.JPG",
                       "locality": "Kadugodi",
                       "areaName": "Whitefield",
-                      "costForTwo": "₹250 for two",
+                      "": "TN250 for two",
                       "cuisines": [
                         "Pizzas",
                         "Italian",
@@ -4906,8 +4906,8 @@ export const RESTAURANT_DATA =
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹100 OFF",
-                        "subHeader": "ABOVE ₹299",
+                        "header": "TN100 OFF",
+                        "subHeader": "ABOVE TN299",
                         "discountTag": "FLAT DEAL"
                       },
                       "orderabilityCommunication": {
@@ -4954,7 +4954,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/mojo-pizza-2x-toppings-kadugodi-whitefield-bangalore-622029",
+                      "link": "https://www.swiggy.com/restaurants/mojo-pizza-2x-toppings-kadugodi-whitefield-Tunisia -622029",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4967,11 +4967,11 @@ export const RESTAURANT_DATA =
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/19/4ec6a5b6-7c8d-4e10-b8a3-317922e419da_750224.JPG",
                       "locality": "Opp.Post Office",
                       "areaName": "Kadugodi",
-                      "costForTwo": "₹400 for two",
+                      "": "TN400 for two",
                       "cuisines": [
                         "Home Food",
-                        "Indian",
-                        "North Indian",
+                        "tunisian",
+                        "North tunisian",
                         "Thalis"
                       ],
                       "avgRating": 4.3,
@@ -5025,7 +5025,7 @@ export const RESTAURANT_DATA =
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹99"
+                        "subHeader": "AT TN99"
                       },
                       "orderabilityCommunication": {
                         "title": {
@@ -5071,7 +5071,7 @@ export const RESTAURANT_DATA =
                       "context": "seo-data-d7b84976-89ee-47c2-aeca-45ebb979fe20"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/restaurants/daily-kitchen-homely-meals-opp-post-office-kadugodi-bangalore-750224",
+                      "link": "https://www.swiggy.com/restaurants/daily-kitchen-homely-meals-opp-post-office-kadugodi-Tunisia -750224",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -5100,20 +5100,20 @@ export const RESTAURANT_DATA =
             "title": "Best Places to Eat Across Cities",
             "brands": [
               {
-                "text": "Best Restaurants in Bangalore",
-                "link": "https://www.swiggy.com/city/bangalore/best-restaurants"
+                "text": "Best Restaurants in Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia /best-restaurants"
               },
               {
-                "text": "Best Restaurants in Pune",
-                "link": "https://www.swiggy.com/city/pune/best-restaurants"
+                "text": "Best Restaurants in Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia /best-restaurants"
               },
               {
-                "text": "Best Restaurants in Mumbai",
-                "link": "https://www.swiggy.com/city/mumbai/best-restaurants"
+                "text": "Best Restaurants in Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia /best-restaurants"
               },
               {
-                "text": "Best Restaurants in Delhi",
-                "link": "https://www.swiggy.com/city/delhi/best-restaurants"
+                "text": "Best Restaurants in Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia /best-restaurants"
               },
               {
                 "text": "Best Restaurants in Hyderabad",
@@ -5136,8 +5136,8 @@ export const RESTAURANT_DATA =
                 "link": "https://www.swiggy.com/city/ahmedabad/best-restaurants"
               },
               {
-                "text": "Best Restaurants in Jaipur",
-                "link": "https://www.swiggy.com/city/jaipur/best-restaurants"
+                "text": "Best Restaurants in Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia /best-restaurants"
               },
               {
                 "text": "Best Restaurants in Nagpur",
@@ -5176,8 +5176,8 @@ export const RESTAURANT_DATA =
                 "link": "https://www.swiggy.com/city/bhopal/best-restaurants"
               },
               {
-                "text": "Best Restaurants in Gurgaon",
-                "link": "https://www.swiggy.com/city/gurgaon/best-restaurants"
+                "text": "Best Restaurants in Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia /best-restaurants"
               },
               {
                 "text": "Best Restaurants in Coimbatore",
@@ -5243,12 +5243,12 @@ export const RESTAURANT_DATA =
                 "link": "https://www.swiggy.com/chinese-restaurants-near-me"
               },
               {
-                "text": "South Indian Restaurant Near Me",
-                "link": "https://www.swiggy.com/south-indian-restaurants-near-me"
+                "text": "South tunisian Restaurant Near Me",
+                "link": "https://www.swiggy.com/south-tunisian-restaurants-near-me"
               },
               {
-                "text": "Indian Restaurant Near Me",
-                "link": "https://www.swiggy.com/indian-restaurants-near-me"
+                "text": "tunisian Restaurant Near Me",
+                "link": "https://www.swiggy.com/tunisian-restaurants-near-me"
               },
               {
                 "text": "Kerala Restaurant Near Me",
@@ -5259,8 +5259,8 @@ export const RESTAURANT_DATA =
                 "link": "https://www.swiggy.com/korean-restaurants-near-me"
               },
               {
-                "text": "North Indian Restaurant Near Me",
-                "link": "https://www.swiggy.com/north-indian-restaurants-near-me"
+                "text": "North tunisian Restaurant Near Me",
+                "link": "https://www.swiggy.com/north-tunisian-restaurants-near-me"
               },
               {
                 "text": "Seafood Restaurant Near Me",
@@ -5409,28 +5409,28 @@ export const RESTAURANT_DATA =
             "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FooterContent",
             "cities": [
               {
-                "text": "Bangalore",
-                "link": "https://www.swiggy.com/city/bangalore"
+                "text": "Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia "
               },
               {
-                "text": "Gurgaon",
-                "link": "https://www.swiggy.com/city/gurgaon"
+                "text": "Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia "
               },
               {
                 "text": "Hyderabad",
                 "link": "https://www.swiggy.com/city/hyderabad"
               },
               {
-                "text": "Delhi",
-                "link": "https://www.swiggy.com/city/delhi"
+                "text": "Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia "
               },
               {
-                "text": "Mumbai",
-                "link": "https://www.swiggy.com/city/mumbai"
+                "text": "Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia "
               },
               {
-                "text": "Pune",
-                "link": "https://www.swiggy.com/city/pune"
+                "text": "Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia "
               },
               {
                 "text": "Kolkata",
@@ -5449,8 +5449,8 @@ export const RESTAURANT_DATA =
                 "link": "https://www.swiggy.com/city/chandigarh"
               },
               {
-                "text": "Jaipur",
-                "link": "https://www.swiggy.com/city/jaipur"
+                "text": "Tunisia ",
+                "link": "https://www.swiggy.com/city/Tunisia "
               },
               {
                 "text": "Kochi",
@@ -7797,7 +7797,7 @@ export const RESTAURANT_DATA =
         "card": {
           "card": {
             "@type": "type.googleapis.com/swiggy.seo.widgets.v1.MetaContext",
-            "citySlug": "bangalore",
+            "citySlug": "Tunisia ",
             "lat": "12.9698196",
             "lng": "77.7499721",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
@@ -7805,8 +7805,8 @@ export const RESTAURANT_DATA =
             "id": "meta_data",
             "metaInfo": {
               "pageType": "FOOD_HOME_PAGE",
-              "pageTitle": "Order Food Online from India's Best Food Delivery Service | Swiggy",
-              "pageMetaDescription": "Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad, Delhi and more. Order Pizzas, Biryanis, from Swiggy.",
+              "pageTitle": "Order Food Online from tunisia's Best Food Delivery Service | Swiggy",
+              "pageMetaDescription": "Order food online from restaurants and get it delivered. Serving in Tunisia , Hyderabad, Tunisia  and more. Order Pizzas, Biryanis, from Swiggy.",
               "pageKeywords": "Food delivery, Online food order, Online food dleivery"
             },
             "screenType": "filteredCollection",
@@ -7867,19 +7867,19 @@ export const MENU_DATA =
             "info": {
               "id": "313792",
               "name": "Brahmins Tiffin Centre",
-              "city": "Bangalore",
+              "city": "Tunisia ",
               "slugs": {
                 "restaurant": "brahmins-tiffin-center-marathahalli-marathahalli",
-                "city": "bangalore"
+                "city": "Tunisia "
               },
               "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
               "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/5/4de2f50f-a0da-4b79-9bad-fc78c8a3696d_313792.jpg",
               "locality": "Silver Spring Layout",
               "areaName": "Marathahalli",
-              "costForTwo": "20000",
-              "costForTwoMessage": "₹200 for two",
+              "": "20000",
+              "Message": "TN200 for two",
               "cuisines": [
-                "South Indian",
+                "South tunisian",
                 "Fast Food"
               ],
               "avgRating": 4.5,
@@ -7923,7 +7923,7 @@ export const MENU_DATA =
                 ],
                 "descriptionList": [
                   {
-                    "meta": "30% off up to ₹75 | Use code TRYNEW",
+                    "meta": "30% off up to TN75 | Use code TRYNEW",
                     "discountType": "Percentage",
                     "operationType": "RESTAURANT"
                   },
@@ -7951,7 +7951,7 @@ export const MENU_DATA =
                 },
                 {
                   "title": "Cuisines",
-                  "message": "South Indian,Fast Food"
+                  "message": "South tunisian,Fast Food"
                 }
               ],
               "totalRatings": 10000,
@@ -7971,7 +7971,7 @@ export const MENU_DATA =
                 ],
                 "descriptionList": [
                   {
-                    "meta": "30% off up to ₹75 | Use code TRYNEW",
+                    "meta": "30% off up to TN75 | Use code TRYNEW",
                     "discountType": "Percentage",
                     "operationType": "RESTAURANT"
                   },
@@ -7994,7 +7994,7 @@ export const MENU_DATA =
                     "discountType": "Percentage",
                     "value": 20
                   },
-                  "lockedMessage": "Add items worth ₹<amount> to unlock flat 20% off | Code PARTY",
+                  "lockedMessage": "Add items worth TN<amount> to unlock flat 20% off | Code PARTY",
                   "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 20% off",
                   "logoCtx": {
                     
@@ -8078,7 +8078,7 @@ export const MENU_DATA =
                 "offers": [
                   {
                     "info": {
-                      "header": "Extra ₹30 off",
+                      "header": "Extra TN30 off",
                       "offerTagColor": "#E46D47",
                       "logoBottom": "rng/md/ads/production/d07196b25b85d1fd9951e10c255ab737",
                       "offerIds": [
@@ -8097,14 +8097,14 @@ export const MENU_DATA =
                   },
                   {
                     "info": {
-                      "header": "30% OFF UPTO ₹75",
+                      "header": "30% OFF UPTO TN75",
                       "offerTagColor": "#E46D47",
                       "offerIds": [
                         "55c55986-ee11-467d-bed0-bef7588a5a7f"
                       ],
                       "expiryTime": "1970-01-01T00:00:00Z",
                       "couponCode": "USE TRYNEW",
-                      "description": "ABOVE ₹179",
+                      "description": "ABOVE TN179",
                       "offerType": "offers",
                       "restId": "313792",
                       "offerLogo": "offers/generic",
@@ -8124,7 +8124,7 @@ export const MENU_DATA =
                       ],
                       "expiryTime": "1970-01-01T00:00:00Z",
                       "couponCode": "USE PARTY",
-                      "description": "ABOVE ₹900",
+                      "description": "ABOVE TN900",
                       "offerType": "offers",
                       "restId": "313792",
                       "offerLogo": "offers/generic",
@@ -8136,7 +8136,7 @@ export const MENU_DATA =
                   },
                   {
                     "info": {
-                      "header": "10% OFF UPTO ₹150",
+                      "header": "10% OFF UPTO TN150",
                       "offerTagColor": "#E46D47",
                       "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/224113cb-129f-4263-bc1d-92c84fd3ed8c_HSBC.png",
                       "offerIds": [
@@ -8144,7 +8144,7 @@ export const MENU_DATA =
                       ],
                       "expiryTime": "1970-01-01T00:00:00Z",
                       "couponCode": "USE HSBCFEST",
-                      "description": "ABOVE ₹499",
+                      "description": "ABOVE TN499",
                       "offerType": "offers",
                       "restId": "313792",
                       "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/224113cb-129f-4263-bc1d-92c84fd3ed8c_HSBC.png",
@@ -8156,7 +8156,7 @@ export const MENU_DATA =
                   },
                   {
                     "info": {
-                      "header": "30% OFF UPTO ₹150",
+                      "header": "30% OFF UPTO TN150",
                       "offerTagColor": "#E46D47",
                       "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/16d410a3-56fd-4a93-8f21-373180d89ce4_AxisMenuLogo.png",
                       "offerIds": [
@@ -8164,7 +8164,7 @@ export const MENU_DATA =
                       ],
                       "expiryTime": "1970-01-01T00:00:00Z",
                       "couponCode": "USE AXIS30",
-                      "description": "ABOVE ₹200",
+                      "description": "ABOVE TN200",
                       "offerType": "offers",
                       "restId": "313792",
                       "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/16d410a3-56fd-4a93-8f21-373180d89ce4_AxisMenuLogo.png",
@@ -8395,7 +8395,7 @@ export const MENU_DATA =
                               "id": "59960058",
                               "name": "Upma",
                               "category": "All Day Breakfast",
-                              "description": "A tasty dish made from rava cooked with vegetables and select Indian spices.",
+                              "description": "A tasty dish made from rava cooked with vegetables and select tunisian spices.",
                               "imageId": "feae19dfca6d0ae1330b3ba9f71aaa7b",
                               "inStock": 1,
                               "isVeg": 1,
@@ -8588,7 +8588,7 @@ export const MENU_DATA =
                               "id": "59960067",
                               "name": "Ghee Podi Dosa",
                               "category": "Dosas",
-                              "description": "South Indian delicacy that serves 1",
+                              "description": "South tunisian delicacy that serves 1",
                               "imageId": "5d5bd2e3afca1cedb8b1c6f397744d1c",
                               "inStock": 1,
                               "isVeg": 1,
@@ -8955,7 +8955,7 @@ export const MENU_DATA =
                               "id": "114093473",
                               "name": "Sambar[250ml]",
                               "category": "Extras",
-                              "description": "A hot lentil soup with mixed vegetables is a must have accompaniment for popular south indian recipes",
+                              "description": "A hot lentil soup with mixed vegetables is a must have accompaniment for popular south tunisian recipes",
                               "imageId": "bd50581306cc88991b50986120211ffe",
                               "inStock": 1,
                               "isVeg": 1,
@@ -9291,7 +9291,7 @@ export const MENU_DATA =
                               "id": "59960058",
                               "name": "Upma",
                               "category": "All Day Breakfast",
-                              "description": "A tasty dish made from rava cooked with vegetables and select Indian spices.",
+                              "description": "A tasty dish made from rava cooked with vegetables and select tunisian spices.",
                               "imageId": "feae19dfca6d0ae1330b3ba9f71aaa7b",
                               "inStock": 1,
                               "isVeg": 1,
@@ -9672,7 +9672,7 @@ export const MENU_DATA =
                               "id": "59960067",
                               "name": "Ghee Podi Dosa",
                               "category": "Dosas",
-                              "description": "South Indian delicacy that serves 1",
+                              "description": "South tunisian delicacy that serves 1",
                               "imageId": "5d5bd2e3afca1cedb8b1c6f397744d1c",
                               "inStock": 1,
                               "isVeg": 1,
@@ -10237,7 +10237,7 @@ export const MENU_DATA =
                               "id": "114093473",
                               "name": "Sambar[250ml]",
                               "category": "Extras",
-                              "description": "A hot lentil soup with mixed vegetables is a must have accompaniment for popular south indian recipes",
+                              "description": "A hot lentil soup with mixed vegetables is a must have accompaniment for popular south tunisian recipes",
                               "imageId": "bd50581306cc88991b50986120211ffe",
                               "inStock": 1,
                               "isVeg": 1,
@@ -11035,7 +11035,7 @@ export const MENU_DATA =
                               "id": "59960083",
                               "name": "Veg Kothu Parotta",
                               "category": "Breads",
-                              "description": "Shredded flatbread - Famous in South Indian cuisine",
+                              "description": "Shredded flatbread - Famous in South tunisian cuisine",
                               "imageId": "5a3bda81b6aba944d933b6ba027c9f42",
                               "isVeg": 1,
                               "price": 12900,

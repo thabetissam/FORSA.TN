@@ -56,10 +56,7 @@ function DetailMenuCard({ info }) {
           />
           {/* Item name */}
           <h2 className="font-bold text-lg">{name}</h2>
-          {/* Item price */}
-          <p className="font-semibold text-lg">
-            ₹{defaultPrice / 100 || price / 100}
-          </p>
+          
           {/* Item rating */}
           <p className="flex gap-2 ">
             <i className="fi fi-ss-star mt-[2px]"></i>

@@ -2,14 +2,13 @@ import { useState,useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { setFilterValue } from "../utils/filterSlice";
 
-const FilterBar = () => {
+const FilterBar = () => { 
   const filterOption = [
-    "Ratings 4.0+",
-    "Offers",
-    "Rs.300- Rs.600",
-    "Less than Rs.300",
-    "FastDelivery",
-    "Nearby",
+    "Produits proches de la date limite",
+    "Moins de 5 TND",
+    "Offres de dernière minute",
+    "Produits invendus",
+    "Partage local",
   ];
 
   const [activeBtn, setActiveBtn] = useState();

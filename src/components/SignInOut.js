@@ -1,5 +1,4 @@
-import { signInWithPopup, signOut } from "firebase/auth";
-import { auth, provider } from "../../FirebaseAuth";
+
 import { useDispatch, useSelector } from "react-redux";
 import { addUserData, removeUserData } from "../utils/authSlicer";
 import { useNavigate } from "react-router-dom";
@@ -15,11 +14,7 @@ const SignInOut = () => {
   const AuthUserData = useSelector((store) => store.auth.AuthUserData);
 
   let handleSignIn = async () => {
-    const data = await signInWithPopup(auth, provider);
-    const AuthUserData = {
-      name: data.user.displayName,
-      photo: data.user.photoURL,
-    };
+    
     dispatch(addUserData(AuthUserData));
     toast.success("Sign-In Successful", {
       position: "top-right",

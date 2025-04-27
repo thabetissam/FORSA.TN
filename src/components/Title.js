@@ -1,12 +1,15 @@
-import { Restaurant_Title_URL } from "../../config";
+import Logo from "../assets/images/logo.png"; // Adjust path based on Title.js location
+
 const Title = () => {
-    return (
-      <a href="/">
-        <img
-          className="h-24 rounded-full object-contain"
-          src= {Restaurant_Title_URL}
-        ></img>
-      </a>
-    );
+  return (
+    <a href="/" aria-label="Home">
+      <img
+        className="logo-img"
+        src={Logo}
+        alt="FORSA Logo"
+      />
+    </a>
+  );
 };
+
 export default Title;

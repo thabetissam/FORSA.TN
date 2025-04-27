@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "this is for testing purpose",
   "type": "module",
-  "homepage": "https://Subhashis-99.github.io/EatMore--A-web-based-online-food-delivery-app",
+  "homepage": "https://hunters 3.0-99.github.io/FORSA--A-web-based-online-food-delivery-app",
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "author": "subhashis",
+  "author": "hunters 3.0",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -37,6 +37,7 @@
     "firebase": "^10.13.0",
     "gsap": "^3.12.5",
     "lottie-react": "^2.4.0",
+    "namaste": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",

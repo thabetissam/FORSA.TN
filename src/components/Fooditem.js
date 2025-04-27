@@ -10,7 +10,7 @@ export const Fooditem = ({ name, imageId, description, price }) => {
         />
         <h2 className="font-bold text-lg py-2 truncate">{name}</h2>
         <h4>{description}</h4>
-        <h4> ₹{price / 100}</h4>
+        <h4> TN {price / 100}</h4>
       </div>
 
   );

@@ -65,12 +65,12 @@ const Dishes = ({
               )}
             </div>
 
-            <p className="text-lg font-semibold">{name}</p>
+                  <p className="text-lg font-semibold">{name}</p>
+                      <div className="flex gap-1">
+                        <span className="text-sm mt-[6px]">TN</span> {/* Displaying "TN" */}
+                        <p className="text-lg font-semibold">{price / 100}</p>
+                      </div>
 
-            <div className="flex gap-1">
-              <i className="fi fi-tr-indian-rupee-sign text-sm mt-[6px]"></i>
-              <p className="text-lg font-semibold">{price / 100}</p>
-            </div>
             <button
               className="flex items-center gap-1 px-2 border-2 rounded-2xl mt-2"
               onClick={handleDescription}

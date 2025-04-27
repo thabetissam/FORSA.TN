@@ -19,7 +19,6 @@ import SmoothScrolling from "./src/components/SmoothScrolling";
 import { Provider } from "react-redux";
 import store from "./src/utils/store";
 
-const QuickBasket = lazy(() => import("./src/components/QuickBasket"));
 const Search = lazy(() => import("./src/components/Search"));
 const Info = lazy(() => import("./src/components/Info"));
 const AboutSection = lazy(() => import("./src/components/AboutSection"));
@@ -29,7 +28,6 @@ const Error = lazy(() => import("./src/components/Error"));
 const RestaurantMenu = lazy(() => import("./src/components/RestaurantMenu"));
 const Cart = lazy(() => import("./src/components/Cart"));
 const SignInOut = lazy(() => import("./src/components/SignInOut"));
-const FAQ = lazy(() => import("./src/components/FAQ"));
 
 
 
@@ -126,14 +124,7 @@ const appRouter = createBrowserRouter([
           </Suspense>
         ),
       },
-      {
-        path: "/quickBasket",
-        element: (
-          <Suspense fallback={<LazyShimmer />}>
-            <QuickBasket />
-          </Suspense>
-        ),
-      },
+      
       {
         path: "/cart",
         element: (
@@ -158,14 +149,7 @@ const appRouter = createBrowserRouter([
           </Suspense>
         ),
       },
-      {
-        path: "/faq",
-        element: (
-          <Suspense fallback={<LazyShimmer />}>
-            <FAQ />
-          </Suspense>
-        ),
-      },
+      
     ],
   },
 ]);

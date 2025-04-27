@@ -3,9 +3,8 @@ export const IMG_CDN_URL =
 export const RestaurantMenu_API_URL =
   "https://res.cloudinary.com/dlzvbl2xv/image/upload/v1726226753/res_title_izsw6z.png";
 
-export const Restaurant_Title_URL =
-  "https://cdn.dribbble.com/userupload/5966432/file/original-03c1fe57f7907074905632cbf187f058.png?resize=400x0";
 
+export const Restaurant_Title_URL = "/assets/images/logo.png";
 export const animation = "https://res.cloudinary.com/dlzvbl2xv/raw/upload/v1726226879/animation_zb13ks.json";
 // Icon URLs
 export const vegIcon =

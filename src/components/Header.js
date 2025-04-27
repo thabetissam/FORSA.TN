@@ -23,10 +23,7 @@ export const Header = () => {
         {/* Logo on the left */}
         <Title className="flex-shrink-0" />
 
-        {/* Address on larger screens */}
-        <span className="truncate text-green-600 underline w-36 hidden lg:block">
-          {address}
-        </span>
+       
 
         {/* Desktop Navigation items */}
         <div className="hidden md:flex items-center space-x-5">
@@ -39,17 +36,8 @@ export const Header = () => {
                 <p className="hidden md:inline">Home</p>
               </Link>
             </li>
-            <li className="hover-navbar">
-              <Link to="/search">
-                <div className="flex items-center gap-3">
-                  <i className="fi fi-rs-search mt-2 text-xl"></i>
-                  <p className="hidden md:inline">Search</p>
-                </div>
-              </Link>
-            </li>
-            <li className="hover-navbar">
-              <Link to="/quickBasket">QuickBasket</Link>
-            </li>
+           
+            
             <li className="hover-navbar">
               <Link to="/info">
                 <div className="flex items-center gap-1">

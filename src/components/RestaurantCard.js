@@ -25,8 +25,7 @@ export const Resturantcard = ({
           ⏱️{sla.slaString}
         </h4>
         <h5 className="truncate">{cuisines.join(", ")}</h5>
-        <h4>{areaName}</h4>
-        <h4>{costForTwo}</h4>
+        <h4>500 TN</h4>
       </div>
     </>
   );

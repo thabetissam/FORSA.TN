@@ -105,18 +105,10 @@ const RestaurantMenu = () => {
                   </span>
                 </div>
 
-                <span className="truncate text-gray-500 min-h-[24px]">
-                  ({resInfo?.totalRatingsString})
-                </span>
-                <span className="truncate text-gray-700 min-h-[24px]">
-                  {resInfo?.costForTwoMessage}
-                </span>
+               
               </div>
 
-              {/* Cuisine types */}
-              <p className="ml-1 underline font-semibold text-orange-600">
-                {resInfo?.cuisines?.join(", ")}
-              </p>
+              
 
               {/* Outlet and delivery details */}
               <div className="flex gap-4 mt-2 ml-1">
@@ -127,12 +119,9 @@ const RestaurantMenu = () => {
                 </div>
                 <div className="flex flex-col font-semibold gap-[9px] text-sm">
                   <p>
-                    Outlet
-                    <span className="text-gray-500 font-normal ml-2">
-                      {resInfo?.locality}
-                    </span>
+                    Careffour
+                   
                   </p>
-                  <p>{resInfo?.sla?.slaString}</p>
                 </div>
               </div>
 
@@ -140,18 +129,8 @@ const RestaurantMenu = () => {
               <hr className="mt-4" />
               <div className="w-full -ml-1 my-1">
                 <div className="flex items-center gap-2">
-                  <img
-                    className="w-6 mt-[1px]"
-                    src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/${resInfo?.feeDetails?.icon}`}
-                    alt="Delivery fee icon"
-                  />
-                  {resInfo?.feeDetails?.message ? (
-                    <span className="text-gray-500 text-sm mt-[2px]">
-                      {resInfo?.feeDetails?.message.replace(/<[^>]*>/g, "")}
-                    </span>
-                  ) : (
-                    <h1>This outlet is currently closed.</h1>
-                  )}
+                 
+                  
                 </div>
               </div>
             </div>
@@ -201,7 +180,7 @@ const RestaurantMenu = () => {
                     />
                     <div className="flex justify-between items-center absolute bottom-2 w-full px-5 py-2">
                       <p className="text-white font-bold">
-                        ₹{defaultPrice / 100 || price / 100}
+                        TN{defaultPrice / 100 || price / 100}
                       </p>
                       <button className="bg-white font-bold border text-green-500 px-4 py-1 rounded-xl">
                         ADD
